@@ -1,5 +1,5 @@
 # vulnerable-drivers
-*Capcom.sys:                 \\.\Htsysm72FB<br/>
+* Capcom.sys:                 \\.\Htsysm72FB<br/>
 VirtualBox.sys:             \\.\VBoxDrv<br/>
 ATSZIO64.sys:               \\.\ATSZIO<br/>
 atillk64.sys:               \\.\atillk64<br/>
